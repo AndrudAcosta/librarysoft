@@ -1,0 +1,200 @@
+.main-sidebar {
+    background-color: #16a084;
+    color: white;
+  }
+  
+  .content-wrapper {
+    background-color: white;
+  }
+  
+#agregar{
+    background-color: #16a084;
+    color: white;
+
+}
+#agregar:hover {
+    background-color: white;
+    color:#16a084;
+  }
+
+#actualizar{
+    background-color: #16a084;
+    color: white;
+  }
+
+#actualizar:hover {
+    background-color: white;
+    color:#16a084;
+  }
+
+#libedit {
+    background-color: rgb(192, 192, 31);
+    color: white
+}
+  
+#libedit:hover {
+    background-color: white;
+    color: rgb(192, 192, 31);
+}
+  
+#libdelete {
+    background-color: rgb(238, 66, 66);
+    color: white;
+}
+
+#libdelete:hover {
+    background-color: white;
+    color: rgb(238, 66, 66);
+  }
+  
+#libver {
+    background-color: rgb(144, 219, 30);
+    color: white;
+}
+
+#libver:hover {
+    background-color: white;
+    color: rgb(144, 219, 30);
+}
+
+
+#calendar {
+  max-width: 95%;
+  height: 80%;
+  margin: 0 auto;
+}
+
+.iconsTitle{
+  padding: 5px 3px 0px 0px;
+  font-size:x-large;
+}
+
+
+    .btn-library {
+    background-color: #16a084 !important;
+    color: white !important;;
+    }
+
+    .btn-library:hover {
+    background-color: white !important;
+    color:#16a084 !important;
+}
+
+    .btn-z {
+    background-color: rgb(192, 192, 31) !important;
+    color: white !important;;
+    }
+
+    .btn-z:hover  {
+      background-color: white !important;
+      color:rgb(192, 192, 31) !important;
+      }
+
+      .btn-copies{
+        background-color:rgb(150, 160, 170) !important;
+        color: white !important;
+        }
+    
+        .btn-copies:hover  {
+          background-color: white !important;
+          color:rgb(150, 160, 170) !important;
+          }
+
+    .btn-libdelete {
+    background-color: rgb(238, 66, 66) !important;;
+    color: white !important;;
+    }
+
+    .btn-libdelete:hover  {
+      background-color:white !important;
+      color:rgb(238, 66, 66) !important;
+      }
+
+    .btn-libver {
+    background-color: rgb(144, 219, 30) !important;;
+    color: white !important;;
+    }
+    .btn-libver:hover  {
+      background-color:white !important;
+      color: rgb(144, 219, 30) !important;
+      }
+
+    .iconsTitle{
+    padding: 9px !important;;
+    }
+
+
+    #tableBooks_wrapper {
+      font-size: 15px; /* Tamaño de fuente más pequeño */
+  }
+  
+  #tableBooks {
+      width: 60%; /* Ajusta el ancho de la tabla */
+  }
+  
+  #tableBooks th,
+  #tableBooks td {
+      padding: 3px; /* Ajusta el espacio interno de las celdas */
+  }
+  
+  #tableBooks_info,
+  #tableBooks_paginate {
+      font-size: 4px; /* Tamaño de fuente más pequeño para la información y paginación */
+  }
+
+  .fc-toolbar button {
+    background-color: #16a084 !important; 
+    color: white; 
+    border: none;
+  }
+  
+  .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #16a084 !important;
+    border-color: #16a084 !important;
+}
+
+.btn.disabled, .btn:disabled, fieldset:disabled .btn {
+  color:  #fff;
+  background-color: #16a084 !important;
+  border-color: #16a084 !important;
+}
+
+.btn-primary  {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #18927a !important;
+  --bs-btn-border-color: #18927a !important;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #18927a !important;
+  --bs-btn-hover-border-color: #18927a !important;
+  --bs-btn-focus-shadow-rgb: 49,132,253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #18927a !important;
+  --bs-btn-active-border-color: #18927a !important;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #18927a !important;
+  --bs-btn-disabled-border-color: #18927a !important;
+}
+
+.btn-cancelar {
+  background-color: #333 !important;;
+  color: white !important;;
+
+  }
+
+  .btn-cancelar:hover  {
+    background-color:white !important;
+    color:#333 !important;
+    
+    }
+    .btn-confirmar {
+      background-color: #1684a0 !important;
+      color:  white !important;
+      border: 2px solid  white !important;
+    }
+  
+      .btn-confirmar:hover  {
+        background-color: white !important;
+        color:#1684a0 !important;
+        }
